@@ -1,0 +1,5 @@
+.round-img {
+    border: 2px solid red;
+    border-radius: 100%;
+    background-color: blueviolet;
+}
